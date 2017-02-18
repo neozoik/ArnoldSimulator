@@ -1,4 +1,4 @@
-#Arnold Simulator
+#Arnold Simulator AIWORKER
 
 A scalable actor-model framework for developing AI systems with dynamic topologies.
 
